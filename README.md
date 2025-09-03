@@ -9,9 +9,12 @@
 </p>
 
 
-# Linktree
+# hub de links
 
-projeto linktree usando HTML 5 e CSS 3
+Esse projeto é um Hub de Links, criado para reunir em um só lugar minhas redes sociais, projetos e formas de contato.
+A ideia é facilitar a navegação e deixar tudo organizado de maneira simples e acessível.
+Mais do que apenas links, é um espaço de conexão e compartilhamento.
+Um cantinho digital feito para aproximar quem quiser conhecer melhor meu trabalho. 
 
 ## Autor
 Pedro Dantas
