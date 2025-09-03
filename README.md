@@ -1,6 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/phdantass/linktree?style=for-the-badge)
-<img width="466" height="894" alt="image" src="https://github.com/user-attachments/assets/dbafa374-70dc-45ef-82fe-1904cc460447" />
 
+<img width="466" height="894" alt="image" src="https://github.com/user-attachments/assets/dbafa374-70dc-45ef-82fe-1904cc460447" />
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
